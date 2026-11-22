@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 4100580101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87082a8c712ec0fcd393c05068de975a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47205564861b7739bc42780dd11b67b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 87082a8c712ec0fcd393c05068de975a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/Laugh2.wav
+- Assets/Audio/Standard1.wav
+- Assets/Audio/Laugh1.wav
+- Assets/Audio/Standard6.wav
+- Assets/Audio/Standard3.wav
+- Assets/Audio/Funny6.wav
+- Assets/Audio/Standard7.wav
+- Assets/Audio/Insult3.wav
+- Assets/Audio/ExecuteGloat2.wav
+- Assets/Models/JackEyes.fbx
+- Assets/Audio/Standard2.wav
+- Assets/Audio/Insult1.wav
+- Assets/Audio/ExecuteGloat3.wav
+- Assets/Audio/ExecuteGloat6.wav
+- Assets/Audio/Funny3.wav
+- Assets/Audio/Insult4_Profanity.wav
+- Assets/Audio/Laugh5.wav
+- Assets/Materials/JackyMat.mat
+- Assets/Audio/ExecuteGloat1.wav
+- Assets/Audio/Insult6_Profanity.wav
+- Assets/Audio/Funny8_Profanity.wav
+- Assets/Audio/Funny5.wav
+- Assets/Audio/Standard9.wav
+- Assets/Models/JackMesh.fbx
+- Assets/Audio/Laugh3.wav
+- Assets/Audio/Laugh6.wav
+- Assets/Audio/ExecuteGloat4_Profanity.wav
+- Assets/Audio/Funny1.wav
+- Assets/Textures/HandsomeJackMask_Nrm.png
+- Assets/Audio/Funny7.wav
+- Assets/Audio/Standard4.wav
+- Assets/Audio/Insult5_Profanity.wav
+- Assets/Textures/HandsomeJackMask_Diff.png
+- Assets/Audio/Funny2.wav
+- Assets/Audio/Insult7_Profanity.wav
+- Assets/Audio/ExecuteGloat5.wav
+- Assets/Audio/Funny4.wav
+- Assets/Audio/Standard5.wav
+- Assets/Audio/Laugh4.wav
+- Assets/Audio/Standard8.wav
+- Assets/logo.png
+- Assets/Audio/Insult8_Profanity.wav
+- Assets/Audio/Insult2_Profanity.wav
+- Assets/Audio/Funny9_Profanity.wav
+Dependencies: []

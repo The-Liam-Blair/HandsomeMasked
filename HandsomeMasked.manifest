@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3013566603
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: handsomeassets
+      Dependencies: {}
