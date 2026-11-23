@@ -11,7 +11,6 @@
         "dependencies": {
           "BepInEx.AssemblyPublicizer.MSBuild": "0.4.1",
           "BepInEx.Core": "5.4.21",
-          "TeamXiaolan.DawnLib": "0.9.25",
           "Assembly-CSharp": "0.0.0.0",
           "LethalConfig": "0.0.0.0",
           "Unity.Netcode.Runtime": "0.0.0.0"
@@ -237,15 +236,6 @@
             "assemblyVersion": "4.0.12.0",
             "fileVersion": "4.6.24705.1",
             "localPath": "System.Threading.dll"
-          }
-        }
-      },
-      "TeamXiaolan.DawnLib/0.9.25": {
-        "runtime": {
-          "lib/netstandard2.1/com.github.teamxiaolan.dawnlib.dll": {
-            "assemblyVersion": "0.9.25.0",
-            "fileVersion": "0.9.25.0",
-            "localPath": "com.github.teamxiaolan.dawnlib.dll"
           }
         }
       },
@@ -703,13 +693,6 @@
       "sha512": "sha512-VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
       "path": "system.threading/4.3.0",
       "hashPath": "system.threading.4.3.0.nupkg.sha512"
-    },
-    "TeamXiaolan.DawnLib/0.9.25": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7Bcy9kDPy6/yydSeKfWl8hOWvo23DOh8h9nKjyndK034cMWBhuL7tM2dTFxWvufuZTrkrK+oB3FGcEWk/durPQ==",
-      "path": "teamxiaolan.dawnlib/0.9.25",
-      "hashPath": "teamxiaolan.dawnlib.0.9.25.nupkg.sha512"
     },
     "Assembly-CSharp/0.0.0.0": {
       "type": "reference",
