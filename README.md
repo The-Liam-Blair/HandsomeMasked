@@ -1,7 +1,8 @@
 # HandsomeMasked
 
-### Swaps the Masked's (And the Mask scrap's) audio and visuals to Borderland 2's Handsome Jack!
-<img src="https://raw.githubusercontent.com/The-Liam-Blair/HandsomeMasked/refs/heads/main/imgs/altLogo.png" width="250" align="center" />
+### Swaps the Masked's (And the Mask scrap's) audio and visuals to Borderland's Handsome Jack!
+<img src="https://raw.githubusercontent.com/The-Liam-Blair/HandsomeMasked/refs/heads/main/imgs/altLogo.png" width="250" /> <img src="https://raw.githubusercontent.com/The-Liam-Blair/HandsomeMasked/refs/heads/main/imgs/ex1.png" />
+
 
 
 ### Audio Replacement
@@ -17,7 +18,7 @@ To keep the mod clientside, the randomised time for a masked or mask scrap to pl
 The mask scrap and masks of the Masked are replaced with Handsome Jack's mask.
 
 ### Config Options
-- Randomise All Voicelines - When enabled, aside from execution taunts voice clips, AI state is no longer used to determine the voice clip to be used, allowing any voice clip to be triggered in any AI state.
+- Randomise All Voicelines - When enabled, aside from execution taunts voice clips, AI state is no longer used to determine the voice clip to be used, allowing any voice clip to be played regardless of the Masked's current AI state.
 - Toggle Custom Voicelines - Custom voicelines for the mask scrap and masked entities can be separately toggled. (Requires a game restart).
 - Toggle Custom Models - Custom models for the mask scrap and masked entities can be separately toggled. (Requires a game restart).
 - Toggle Mask Audio on Ship - The audio produced by mask items while on the ship can be toggled, if the voicelines get too annoying and repetitive.
